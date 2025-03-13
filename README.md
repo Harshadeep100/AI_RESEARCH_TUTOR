@@ -8,7 +8,7 @@ This project builds an AI-driven research assistant that extracts, processes, an
 ✅ Automated PDF Processing – Extracts text from research papers using PyPDFLoader.
 ✅ Chunking & Vectorization – Splits extracted text into meaningful chunks and converts them into embeddings using sentence-transformers/all-MiniLM-L6-v2.
 ✅ Efficient Knowledge Retrieval – Stores the embeddings in a FAISS vector database for fast and accurate semantic search.
-✅ TinyLlama for Answer Generation – Uses a lightweight LLM (TinyLlama or Mistral) to generate structured answers.
+✅ Used Mistral 7b GGUF, TinyLlama, phi-2, and GPT-2 models for Answer Generation – Uses GPT-Generated Unified Format to generate structured answers.
 ✅ Advanced Query Processing – Implements MMR-based retrieval (Maximum Marginal Relevance) to ensure relevant research context is used.
 ✅ Structured & Contextual Answers – Uses an optimized prompt template to ensure responses are comprehensive, structured, and well-organized.
 ✅ Interactive Q&A Mode – Allows users to interactively ask questions and receive AI-generated insights from the research papers.
