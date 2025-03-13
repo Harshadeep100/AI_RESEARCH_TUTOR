@@ -12,6 +12,7 @@ This project builds an AI-driven research assistant that extracts, processes, an
 ✅ Advanced Query Processing – Implements MMR-based retrieval (Maximum Marginal Relevance) to ensure relevant research context is used.
 ✅ Structured & Contextual Answers – Uses an optimized prompt template to ensure responses are comprehensive, structured, and well-organized.
 ✅ Interactive Q&A Mode – Allows users to interactively ask questions and receive AI-generated insights from the research papers.
+✅ Generates the references from where the relevant topic is retrieved.
 
 🛠️ Tech Stack
 🔹Python
